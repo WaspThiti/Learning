@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+
+
+.Music {
+    background-color: #f1f1f1;
+}
+
+.Music-con {
+    display: flex;
+}
+
+.Music-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Music-info h3 {
+    font-size: 2rem;
+}
+
+.Music-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Music-info .Music-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Music-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.Music1 {
+    background-color: #f1f1f1;
+}
+
+.Music1-con {
+    display: flex;
+}
+
+.Music1-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Music1-info h3 {
+    font-size: 2rem;
+}
+
+.Music1-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Music1-info .Music1-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Music1-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+

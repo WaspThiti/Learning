@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+
+
+.math {
+    background-color: #f1f1f1;
+}
+
+.math-con {
+    display: flex;
+}
+
+.math-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.math-info h3 {
+    font-size: 2rem;
+}
+
+.math-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.math-info .math-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.math-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.math1 {
+    background-color: #f1f1f1;
+}
+
+.math1-con {
+    display: flex;
+}
+
+.math1-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.math1-info h3 {
+    font-size: 2rem;
+}
+
+.math1-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.math1-info .math1-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.math1-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+.math2 {
+    background-color: #f1f1f1;
+}
+
+.math2-con {
+    display: flex;
+}
+
+.math2-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.math2-info h3 {
+    font-size: 2rem;
+}
+
+.math2-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.math2-info .math2-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.math2-img img {
+    width: 100%;
+    padding: 1rem;
+}

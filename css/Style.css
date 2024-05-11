@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.math {
+    background-color: #f1f1f1;
+}
+
+.math-con {
+    display: flex;
+}
+
+.math-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.math-info h3 {
+    font-size: 2rem;
+}
+
+.math-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.math-info .math-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.math-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.science {
+    background-color: #f1f1f1;
+    
+}
+
+.sci-con {
+    display: flex;
+}
+
+.sci-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.sci-info h3 {
+    font-size: 2rem;
+}
+
+.sci-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.sci-info .sci-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.sci-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.Thai {
+    background-color: #f1f1f1;
+    
+}
+
+.Thai-con {
+    display: flex;
+}
+
+.Thai-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Thai-info h3 {
+    font-size: 2rem;
+}
+
+.Thai-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Thai-info .Thai-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Thai-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.history {
+    background-color: #f1f1f1;
+    
+}
+
+.history-con {
+    display: flex;
+}
+
+.history-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.history-info h3 {
+    font-size: 2rem;
+}
+
+.history-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.history-info .history-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.history-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+.SocialStudies {
+    background-color: #f1f1f1;
+    
+}
+
+.SocialStudies-con {
+    display: flex;
+}
+
+.SocialStudies-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.SocialStudies-info h3 {
+    font-size: 2rem;
+}
+
+.SocialStudies-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.SocialStudies-info .SocialStudies-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.SocialStudies-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+
+.English {
+    background-color: #f1f1f1;
+    
+}
+
+.English-con {
+    display: flex;
+}
+
+.English-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.English-info h3 {
+    font-size: 2rem;
+}
+
+.English-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.English-info .English-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.English-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+
+.Music {
+    background-color: #f1f1f1;
+    
+}
+
+.Music-con {
+    display: flex;
+}
+
+.Music-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Music-info h3 {
+    font-size: 2rem;
+}
+
+.Music-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Music-info .Music-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Music-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+.Art {
+    background-color: #f1f1f1;
+    
+}
+
+.Art-con {
+    display: flex;
+}
+
+.Art-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Art-info h3 {
+    font-size: 2rem;
+}
+
+.Art-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Art-info .Art-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Art-img img {
+    width: 100%;
+    padding: 1rem;
+}

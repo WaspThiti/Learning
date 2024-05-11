@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+
+
+.English {
+    background-color: #f1f1f1;
+}
+
+.English-con {
+    display: flex;
+}
+
+.English-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.English-info h3 {
+    font-size: 2rem;
+}
+
+.English-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.English-info .English-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.English-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+.English1 {
+    background-color: #f1f1f1;
+}
+
+.English1-con {
+    display: flex;
+}
+
+.English1-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.English1-info h3 {
+    font-size: 2rem;
+}
+
+.English1-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.English1-info .English1-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.English1-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+.English2 {
+    background-color: #f1f1f1;
+}
+
+.English2-con {
+    display: flex;
+}
+
+.English2-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.English2-info h3 {
+    font-size: 2rem;
+}
+
+.English2-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.English2-info .English2-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.English2-img img {
+    width: 100%;
+    padding: 1rem;
+}
