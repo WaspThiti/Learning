@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    padding: 2rem;
+    background-color: #333;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 2rem;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+
+.sci {
+    background-color: #f1f1f1;
+}
+
+.sci-con {
+    display: flex;
+}
+
+.sci-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.sci-info h3 {
+    font-size: 2rem;
+}
+
+.sci-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.sci-info .sci-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.sci-img img {
+    width: 100%;
+    padding: 1rem;
+}

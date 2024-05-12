@@ -40,6 +40,10 @@ nav {
     font-size: 1.2rem;
 }
 
+
+
+
+
 .math {
     background-color: #f1f1f1;
 }
@@ -131,7 +135,7 @@ nav {
 }
 
 .Thai-info {
-    width: 100%;
+    width: 80%;
     padding: 2rem;
 }
 
@@ -156,6 +160,7 @@ nav {
 .Thai-img img {
     width: 100%;
     padding: 1rem;
+    height: 17.5rem;
 }
 
 
@@ -172,7 +177,7 @@ nav {
 }
 
 .history-info {
-    width: 100%;
+    width: 64%;
     padding: 2rem;
 }
 
@@ -195,7 +200,7 @@ nav {
 }
 
 .history-img img {
-    width: 100%;
+    width: 120%;
     padding: 1rem;
 }
 
@@ -212,7 +217,7 @@ nav {
 }
 
 .SocialStudies-info {
-    width: 100%;
+    width: 86.5%;
     padding: 2rem;
 }
 
@@ -254,7 +259,7 @@ nav {
 }
 
 .English-info {
-    width: 100%;
+    width: 155%;
     padding: 2rem;
 }
 
@@ -339,7 +344,7 @@ nav {
 }
 
 .Art-info {
-    width: 100%;
+    width: 153%;
     padding: 2rem;
 }
 
@@ -362,6 +367,49 @@ nav {
 }
 
 .Art-img img {
+    width: 100%;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+.Learnbefore {
+    background-color: #f1f1f1;
+    
+}
+
+.Learnbefore-con {
+    display: flex;
+}
+
+.Learnbefore-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.Learnbefore-info h3 {
+    font-size: 2rem;
+}
+
+.Learnbefore-info p {
+    margin: 0.5rem 0;
+    font-size: 1.3rem;
+}
+
+.Learnbefore .Learnbefore-click {
+    display: inline-block;
+    background-color: orange;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.Learnbefore-img img {
     width: 100%;
     padding: 1rem;
 }
