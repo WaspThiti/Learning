@@ -42,45 +42,10 @@ nav {
 
 
 
-.puntusad {
-    background-color: #f1f1f1;
+.Heart-con  {
+    max-width: 1240px;
+    margin: 0 auto;
 }
-
-.puntusad-con {
-    display: flex;
-}
-
-.puntusad-info {
-    width: 100%;
-    padding: 2rem;
-}
-
-.puntusad-info h3 {
-    font-size: 2rem;
-}
-
-.puntusad-info p {
-    margin: 0.5rem 0;
-    font-size: 1.3rem;
-}
-
-.puntusad-info .puntusad-click {
-    display: inline-block;
-    background-color: orange;
-    color: #fff;
-    padding: .5rem 1rem;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-.puntusad-img img {
-    width: 100%;
-    padding: 1rem;
-}
-
-
-
-
 
 .Heart {
     background-color: #f1f1f1;
@@ -97,23 +62,22 @@ nav {
 
 .Heart-info h3 {
     font-size: 2rem;
+    text-decoration: underline;
 }
 
 .Heart-info p {
     margin: 0.5rem 0;
+    font-size: 1.5rem;
+}
+
+
+.Heart-info pre {
+    margin: 0.5rem 0;
     font-size: 1.3rem;
 }
 
-.Heart-info .Heart-click {
-    display: inline-block;
-    background-color: orange;
-    color: #fff;
-    padding: .5rem 1rem;
-    border-radius: 5px;
-    text-decoration: none;
-}
 
-.Heart-img img {
+.Heart-img {
     width: 100%;
-    padding: 1rem;
+    padding: 1rem 0;
 }
